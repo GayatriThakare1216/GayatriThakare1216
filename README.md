@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
 
 <h3 align="center">
-Aspiring Frontend Developer • React.js Developer • MCA Student
+Frontend Developer • React.js Developer • JavaScript Developer
 </h3>
 
 <p align="center">
-Building Modern • Responsive • Scalable Web Applications
+Building Modern • Responsive • User-Friendly Web Applications
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Aspiring+Frontend+Developer;React.js+Developer;Building+Modern+UI;Responsive+Web+Applications;Always+Learning+New+Technologies;Open+To+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+UI;Responsive+Web+Applications;Always+Learning+New+Technologies;Open+To+Work" />
 </p>
 
 <p align="center">
@@ -36,22 +36,27 @@ Building Modern • Responsive • Scalable Web Applications
 
 # 👩‍💻 About Me
 
-I'm a passionate **Frontend Developer** who enjoys building modern, responsive and interactive web applications using the React ecosystem.
+I'm a **Frontend Developer and MCA graduate** passionate about building fast, responsive and user-friendly web applications.
 
-I focus on writing clean, maintainable code while creating reusable components and smooth user experiences.
+I specialize in **React.js, JavaScript, HTML, CSS and Tailwind CSS**, with hands-on experience in building reusable components, integrating REST APIs, managing application state and creating responsive user interfaces.
 
-Currently, I'm expanding my frontend expertise by learning advanced React concepts, Next.js and modern frontend architecture.
+Through internships and personal projects, I have gained practical experience turning requirements into functional web experiences and working with modern development workflows.
+
+I enjoy solving frontend problems, learning new technologies and continuously improving the way I build and structure web applications.
+
+🎯 Currently looking for opportunities as a **Frontend Developer, React.js Developer, JavaScript Developer, Web Developer or Junior Software Engineer.**
 
 ---
 
 # 🚀 Quick Highlights
 
-- 🎓 MCA Graduate (2026)
+- 🎓 MCA Graduate — 2026
 - 💻 Frontend Developer specializing in React.js
+- 🧑‍💻 Completed 3 Web Development / Frontend Internships
 - 🎨 Passionate about Modern UI Development
-- 📱 Responsive Website Specialist
+- 📱 Responsive Web Development
 - ⚡ REST API Integration
-- 🔄 State Management (React Query & Zustand)
+- 🔄 State Management with React Query & Zustand
 - 🚀 Live Projects Deployed on Vercel
 - 🎯 Open to Frontend Developer Opportunities
 
@@ -65,7 +70,7 @@ Currently, I'm expanding my frontend expertise by learning advanced React concep
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+<a href="https://www.linkedin.com/in/gayatrithakare12/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -92,7 +97,7 @@ Currently, I'm expanding my frontend expertise by learning advanced React concep
 ## ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres"/>
 </p>
 
 ## 🛠️ Tools & Deployment
@@ -105,14 +110,17 @@ Currently, I'm expanding my frontend expertise by learning advanced React concep
 
 - React Query
 - Zustand
+- React Hook Form
+- Zod
 - REST APIs
 - Context API
 - Component-Based Architecture
-- Responsive Design
-- Dark / Light Theme
-- Git Workflow
+- Responsive Web Development
+- UI/UX Implementation
 - Performance Optimization
-- Modern UI Development
+- Debugging
+- Agile Development
+- Clean & Modular Coding
 
 ---
 
@@ -120,7 +128,7 @@ Currently, I'm expanding my frontend expertise by learning advanced React concep
 
 ## 🛒 Nexora – Modern E-Commerce Platform
 
-A modern React-based e-commerce application focused on premium UI, responsive design and seamless shopping experience.
+A modern React-based e-commerce application focused on responsive design, reusable components and a smooth shopping experience.
 
 ### ✨ Features
 
@@ -137,20 +145,20 @@ A modern React-based e-commerce application focused on premium UI, responsive de
 
 ### 🛠 Tech Stack
 
-`React.js`
-`JavaScript`
-`Tailwind CSS`
-`React Query`
-`Zustand`
+`React.js`  
+`JavaScript`  
+`Tailwind CSS`  
+`React Query`  
+`Zustand`  
 `Vercel`
 
 ### 🔗 Links
 
-🌐 Live Demo
+🌐 **Live Demo**
 
 https://modern-ecommerce-virid.vercel.app/
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/GayatriThakare1216/modern-ecommerce
 
@@ -168,13 +176,18 @@ A full-stack appointment booking platform developed during my internship for ser
 - Service Management
 - Responsive UI
 - REST API Integration
+- Analytics Dashboard
+- Revenue Tracking
+- Team Salary Reports
 
 ### 🛠 Tech Stack
 
-`React.js`
-`Tailwind CSS`
-`Python`
-`PostgreSQL`
+`React.js`  
+`JavaScript`  
+`Tailwind CSS`  
+`Python`  
+`Django`  
+`PostgreSQL`  
 `REST API`
 
 ### 🔗 GitHub
@@ -185,22 +198,43 @@ https://github.com/GayatriThakare1216/Appointment-Booking-SaaS
 
 # 💼 Experience
 
+## Web Development Intern
+
+### Zidio Development
+
+**25 June 2026 – 25 August 2026**
+
+Contributed to responsive web application development with exposure to UI/UX implementation, API integration, clean and modular coding, debugging, performance optimization, documentation and Agile development practices.
+
+### Key Contributions
+
+- Contributed to responsive web application development
+- Worked on UI/UX implementation
+- Integrated third-party APIs and backend services
+- Followed clean and modular coding practices
+- Participated in debugging and performance optimization
+- Supported project documentation
+- Followed Agile development methodologies
+
+---
+
 ## Frontend Developer Intern
 
 ### SMART ACCESS
 
-**Feb 2026 – Jun 2026**
+**7 February 2026 – 3 June 2026**
 
-During my internship, I contributed to a real-world appointment booking platform by developing responsive user interfaces, reusable React components and integrating REST APIs.
+Contributed to the development of a Smart Appointment Booking SaaS application by building responsive user interfaces, reusable React components and integrating REST APIs.
 
 ### Key Contributions
 
-- Developed responsive React.js applications
+- Developed responsive React.js interfaces
 - Built reusable UI components
 - Integrated REST APIs
-- Improved user experience
-- Worked on appointment booking workflow
-- Collaborated in a real project environment
+- Implemented responsive layouts
+- Worked on appointment booking workflows
+- Contributed to frontend features
+- Worked in a real-world development environment
 
 ---
 
@@ -208,7 +242,7 @@ During my internship, I contributed to a real-world appointment booking platform
 
 ### THE PIXEL MIND
 
-**Aug 2025 – Feb 2026**
+**6 August 2025 – 5 February 2026**
 
 Worked on real-world web development projects and contributed to building responsive digital solutions using modern frontend technologies.
 
@@ -224,17 +258,43 @@ Worked on real-world web development projects and contributed to building respon
 
 # 💡 Core Skills
 
+### Frontend Development
+
 - React.js
 - JavaScript (ES6+)
+- HTML5
+- CSS3
 - Tailwind CSS
 - Next.js
-- Responsive Web Design
+
+### State & Data Management
+
 - React Query
 - Zustand
+- Context API
 - REST API Integration
-- Git & GitHub
-- Vercel Deployment
+
+### Forms & Validation
+
+- React Hook Form
+- Zod
+
+### Backend & Database
+
+- Python
+- Django
+- PostgreSQL
+
+### Tools & Practices
+
+- Git
+- GitHub
+- Vercel
+- Responsive Web Development
+- UI/UX Implementation
+- Debugging
 - Performance Optimization
+- Agile Development
 - Component-Based Architecture
 
 ---
@@ -247,56 +307,6 @@ Worked on real-world web development projects and contributed to building respon
 ✔ TypeScript
 ✔ Frontend Architecture
 ✔ Performance Optimization
-✔ Production Ready UI
+✔ Production-Ready UI
 ✔ Accessibility
 ✔ Clean Code Principles
-```
-
----
-
-# 🎯 Career Goals
-
-- Build scalable production-ready React applications
-- Master Next.js & TypeScript
-- Contribute to Open Source
-- Learn advanced frontend architecture
-- Grow as a Frontend Engineer
-- Deliver exceptional UI/UX experiences
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-I'm always excited to collaborate on interesting projects, contribute to open source, and connect with fellow developers.
-
-If you're hiring or looking for a Frontend Developer, I'd love to connect!
-
-</p>
-
-<p align="center">
-
-<a href="mailto:gayatrithakare128@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gayatrithakare12/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-e5m1.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">
-✨ Thanks for visiting my profile! ✨
-</h2>
-
-<p align="center">
-If you like my projects, consider giving them a ⭐
-</p>
